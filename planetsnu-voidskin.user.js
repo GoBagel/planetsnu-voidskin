@@ -13,8 +13,8 @@
 // @include      http://test.planets.nu/*
 // @include      https://mobile.planets.nu/*
 // @include      https://planets.nu/*
-// @updateURL    https://raw.githubusercontent.com/GoBagel/planetsnu-voidskin/main/planetsnu-voidskin.user.js
-// @downloadURL  https://raw.githubusercontent.com/GoBagel/planetsnu-voidskin/main/planetsnu-voidskin.user.js
+// @updateURL    https://github.com/GoBagel/planetsnu-voidskin/raw/refs/heads/main/planetsnu-voidskin.user.js
+// @downloadURL  https://github.com/GoBagel/planetsnu-voidskin/raw/refs/heads/main/planetsnu-voidskin.user.js
 // @homepageURL  https://github.com/GoBagel/planetsnu-voidskin
 // @supportURL   https://github.com/GoBagel/planetsnu-voidskin/issues
 // @grant        none
