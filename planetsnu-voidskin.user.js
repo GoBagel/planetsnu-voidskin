@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Planets.nu – VoidSkin Galactic Background
 // @namespace    bagelman/nu/voidskin
-// @version      0.0.1
+// @version      0.0.2
 // @description  Customize the Planets.nu starmap canvas background with default, color, URL image, or browser-local image.
 // @author       GoBagel + ChatGPT
 // @match        https://planets.nu/*
@@ -15,6 +15,8 @@
 // @include      https://planets.nu/*
 // @updateURL    https://raw.githubusercontent.com/GoBagel/planetsnu-voidskin/main/planetsnu-voidskin.user.js
 // @downloadURL  https://raw.githubusercontent.com/GoBagel/planetsnu-voidskin/main/planetsnu-voidskin.user.js
+// @homepageURL https://github.com/GoBagel/planetsnu-voidskin
+// @supportURL  https://github.com/GoBagel/planetsnu-voidskin/issues
 // @grant        none
 // ==/UserScript==
 

@@ -24,7 +24,7 @@ VoidSkin lets you replace the default galactic canvas background with a solid co
 1. Install Tampermonkey or another compatible userscript manager.
 2. Open the raw script URL:
 
-   https://github.com/GoBagel/planetsnu-voidskin/raw/refs/heads/main/planetsnu-voidskin.user.js
+   https://raw.githubusercontent.com/GoBagel/planetsnu-voidskin/main/planetsnu-voidskin.user.js
 
 3. Tampermonkey should prompt you to install the script.
 4. Open or reload Planets.nu.
