@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Planets.nu – VoidSkin Galactic Background
 // @namespace    bagelman/nu/voidskin
-// @version      0.0.5
+// @version      0.0.6
 // @description  Customize the Planets.nu starmap background with static, parallax star, and comet layers.
 // @author       GoBagel + ChatGPT
 // @match        https://planets.nu/*
@@ -23,7 +23,7 @@
 function wrapper() {
   "use strict";
 
-  const VERSION = "0.0.5";
+  const VERSION = "0.0.6";
   const STORAGE_KEY = "planetsnu_voidskin_settings";
 
   const DEFAULT_SETTINGS = {
